@@ -1,0 +1,28 @@
+h2{
+    background-color:lemonchiffon;
+    padding:20px;
+    margin-bottom:0px;
+    border: 1px solid black;
+}
+
+p{
+    margin: 0;
+    background-color: lightsalmon;
+    padding: 20px;
+    border: 1px solid black;
+}
+
+ul{
+    margin: 0;
+    background-color: lightcyan;
+    padding: 20px;
+    list-style: none;
+    border: 1px solid black;
+}
+
+li{
+    margin: 0;
+    border: 1px dashed black;
+    padding: 20px;
+    text-align: center;
+}
