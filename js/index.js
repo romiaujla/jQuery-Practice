@@ -17,7 +17,7 @@ $(function(){
         //if the number entered is less than or equal to 0
         //it will display an error, set the focus to the input and
         //empty the value of the input box
-        if(val < 0){
+        if(val <= 0){
             $('.error').removeClass('hidden');
             $('#number-choice').val("");
             $('#number-choice').focus();
